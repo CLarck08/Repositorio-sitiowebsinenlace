@@ -44,6 +44,22 @@ main{
 
 }
 
+.jogos h1{
+    text-align: center;
+    padding: 12px;
+}
+.jogos p{
+    padding: 12px;
+
+    
+}
+
+/*
+
+  Hola seño, el padding como dice la seño se usa para separar el texto en este caso de los bordes de la tarjeta, yo estaba usando el margin que segun yo es lo mismo pero alparecer no
+
+*/
+
 
 
 .jogos img{
